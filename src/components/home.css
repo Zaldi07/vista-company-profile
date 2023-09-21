@@ -1,0 +1,6 @@
+.bg {
+  background-image: url("../asset/bg1.png");
+}
+* {
+  scroll-behavior: smooth;
+}
